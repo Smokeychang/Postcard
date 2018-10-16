@@ -1,0 +1,43 @@
+
+body {
+
+	background-color:black;
+	font-family:'Handlee', cursive;
+	font-size: 20px;
+	padding:10px;
+}
+
+.h1 {
+
+align=left
+font-size: 25px
+
+}
+
+ .postcard-table {
+	background-color:white;
+	width:550px;
+	height:300px;
+
+}	
+	
+
+.input {
+font-family:'Handlee', cursive;
+font-size: 20px;
+border: none;
+border-bottom: 1px gray; 
+width: 150px;
+
+
+}
+
+.button {   
+background-color: lightgray;
+font-family:'Handlee', cursive;
+color: black;
+text-align: centre;
+font-size: 20px;
+padding: 10px 20px;
+
+ }
